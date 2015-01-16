@@ -1,0 +1,5 @@
+Git is a distributed revision control system
+
+and support for distributed, non-linear workflows
+
+As with most other distributed revision control systems, and unlike most client–server systems, every Git working directory is a full-fledged repository with complete history and full version-tracking 
